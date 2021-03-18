@@ -1,0 +1,411 @@
+ @media (min-width: 0px) and (max-width: 767px) {
+    .main-img{
+        padding: 0;
+        width: 100%;
+    }
+
+
+    h3{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .main-flex{
+        display: block;
+    }
+
+    .line-color{
+        display: none;
+    }
+
+    .box-text p{
+        text-align: justify;
+    }
+
+    .box-text br{
+        display: none;
+    }
+
+    .circle-red img{
+        width: 13%;
+
+    }
+
+    .wel-flex {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        margin-bottom: 3%;
+        text-align: center;
+        /* align-items: center; */
+        justify-content: center;
+    }
+   
+    .logo-main img {
+        margin-top: 1%;
+        width: 20%;
+    }
+    .welcomer-text {
+      width: 100%;
+    }
+    .img-travel {
+        background-position-x: center;
+    }
+
+    .circle-esq{
+        display: none;
+    }
+
+    .more-item{
+        width: 100%;
+        margin-bottom: 30%;
+    }
+
+    .flex-icons {
+        width: 75%;
+        margin-top: 5%;
+    }
+
+    .snow-img{
+        width: 100%;
+        background-position: inherit;
+        height: 100vh;
+    }
+
+    .snow-img h3{
+        font-size: 40px;
+        bottom: 25%;
+        right: 23%;
+    }
+
+    .snow-img span {
+        position: absolute;
+        right: 30%;
+        bottom: 15%;
+    }
+
+    .small-h3 {
+        font-size: 18px;
+     }
+     .main-img img {
+        height: 100vh;
+    }
+
+    .more-flex{
+        display: block;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .learn h2 {
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    .circle {
+ 
+        width: 16%;
+    }
+
+    h2{
+        font-size: 23px;
+    }
+
+    .learn h3{
+        padding-top: 50px;
+    }
+
+    .kind-img{
+        width: 100%;
+    }
+
+    .gray-take{
+        width: 100%;
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+
+    .kind4-img {
+        height: 50vh;
+        width: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .sky-img{
+        width: 100%;
+        background-position: center;
+        height: 100vh;
+        
+    }
+
+    .blue-welcome2{
+        width: 100%;
+        padding-bottom: 100px;
+    }
+
+    .kind-text{
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .sky-img h3 {
+        font-size: 30px;
+    }
+
+    .kind2-img{
+        width: 100%;
+        height: 40vh;
+    }
+
+    .kind3-img{
+        height: 40vh;
+        width: 100%;
+    }
+
+    .kind3-icon{
+        text-align: center;
+        display: block;
+        
+    }
+
+    .box-kind {
+        padding: 0px 50px 50px 50px;
+    }
+
+    .kind-icon{
+        display: block;
+        text-align: center;
+    }
+
+    .take-flex{
+        display: block;
+    }
+
+    .kind-img {
+        height: 40vh;
+         }
+
+    .text-take{
+        width: 100%;
+    }
+
+    .kind-flex{
+        display: block;
+    }
+
+    .box-take {
+        padding: 0 50px 0 50px;
+    }
+
+    .take-img {
+        margin-bottom: 10%;
+    }
+
+    .box-welcome {
+        padding: 0 25px 0 25px;
+    }
+
+    .kind2-icon{
+        display: block;
+        text-align: center;
+        margin-top: 10%;
+    }
+
+    .blue-welcome{
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .welcome-flex{
+        display: block;
+    }
+    .logo-main {
+        text-align: center;
+        margin-right: 0;
+      }
+
+      .logo-two {
+        margin-bottom: 5%;
+        text-align: center;
+    }
+
+    .logo-two img {
+        width: 55%;
+    }
+
+    .box-text{
+        padding-top: 0;
+        padding-left: 20px;
+    padding-right: 20px;
+    }
+
+    p {
+       
+        font-size: 19px;
+         }
+
+    .text-banner {
+        height: 80vh;
+    }
+
+    .box-text h3 {
+        margin-top: 5%;
+        text-align: center;
+    }
+
+    .circle img {
+        height: 185px;
+    }
+
+    .text-main {
+        padding: 10px;
+        z-index: 99;
+    }
+
+    .travel h3 {
+        z-index: 99;
+        font-size: 40px;
+    }
+    .circle-purple{
+        display: none;
+    }
+}
+
+@supports (-webkit-touch-callout: inherit) {
+    .sky-img{
+    background-attachment: scroll;
+    }
+
+    .kind4-img{
+        height: 80vh;
+        width: 100%;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+
+    }
+    .kind3-img {
+        height: 60vh;
+        width: 100%;
+        background-position: center;
+        background-attachment: scroll;
+    }
+    .kind2-img {
+        width: 100%;
+        height: 75vh;
+        background-attachment: scroll;
+        background-size: cover;
+    }
+
+    .img-travel {
+        background-position-x: center;
+        background-position-y: bottom;
+        background-size: cover;
+        background-attachment: scroll;
+    }
+
+    .snow-img {
+        width: 100%;
+        background-position: inherit;
+        height: 100vh;
+        background-attachment: scroll;
+    }
+
+    .kind-img {
+        height: 70vh;
+        background-attachment: scroll;
+        background-size: cover;
+    }
+    .text-banner {
+        height: 75vh;
+    }
+  }
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    .main-img {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .take-img button img {
+        width: 100%;
+        height: 100px;
+        object-fit: cover;
+    }
+ 
+    .line-color img {
+
+        width: 75%;
+    }
+
+    .logo-two img {
+        width: 35%;
+    }
+
+    .logo-main img {
+        width: 10%;
+    }
+
+    h3 {
+        font-size: 27px;
+    }
+
+    .take-img a img {
+        width: 90%;
+        height: 95px;
+        object-fit: cover;
+    }
+
+    .terms {
+        margin-top: 15%;
+    }
+
+    .flex-icons {
+        width: 35%;
+    }
+
+    .snow-img h3 {
+
+        bottom: 20%;
+    }
+    .snow-img span {
+        right: 32%;
+    }
+    h2 {
+        font-family: 'Open Sans';
+        font-weight: 700;
+        font-style: normal;
+        font-size: 30px;
+    }
+
+    h4 {
+   
+        font-size: 15px;
+    }
+
+    .more-flex {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .blue-welcome2 {
+        padding-bottom: 500px;
+    }
+
+    .box-kind {
+        padding: 0 50px 0 50px;
+    }
+
+    .circle img {
+        height: 235px!important;
+    }
+
+    .text-main {
+        padding: 20px 100px;
+        z-index: 99;
+    }
+
+}
